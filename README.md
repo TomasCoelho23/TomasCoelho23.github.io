@@ -22,10 +22,10 @@ I am a Computer Vision engineer and researcher focused on **visual localization 
 
 I combine an aerospace engineering background with hands-on experience building end-to-end ML systems, from research experiments to deployable benchmarking pipelines.
 
-* 🎓 **ISAE-SUPAERO (MSc, Embedded Systems)** — CGPA: **3.86/4.0** *(Expected Dec 2026)*
-* 🎓 **Instituto Superior Técnico (BSc, Aerospace Engineering)** — Final Grade: **15/20** *(Jun 2024)*
+* 🎓 **ISAE-SUPAERO (MSc, Embedded Systems)** 
+* 🎓 **Instituto Superior Técnico (BSc, Aerospace Engineering)** 
 * 📍 **Location:** Toulouse, France
-* 💼 **Open to:** Research collaborations, internships, and applied CV/ML opportunities
+* 💼 **Open to:** Research collaborations and applied CV/ML opportunities
 
 ---
 
