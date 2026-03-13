@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imagesPortfolio/profile-modified.png.jpg" width="150" height="150">
+  <img src="imagesPortfolio/profile-modified.png" width="150" height="150">
   
   <h1>Hi, I'm Tomás Coelho 👋</h1>
   <h3>MSc Aerospace Engineering (Embedded Systems) @ ISAE-SUPAERO</h3>
