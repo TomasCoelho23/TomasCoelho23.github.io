@@ -1,2 +1,2 @@
 # Replace 'author/theme-name' with the actual GitHub repository of your theme
-remote_theme: pages-themes/minimal
+remote_theme: jekyll-theme-cayman
