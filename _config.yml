@@ -1,3 +1,2 @@
-title: Tomás Coelho
-logo: imagesPortfolio/IMG_0402.JPG
-theme: jekyll-theme-minimal
+# Replace 'author/theme-name' with the actual GitHub repository of your theme
+remote_theme: pages-themes/minimal
